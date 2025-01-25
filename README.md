@@ -2,7 +2,12 @@
 
 Salut 👋, je suis CoolestPNJ, un apprenti développeur passionné par internet et la technologie en général.
 
-## About me :
+## Table des matières : 
+- [À propos](#)
+
+
+
+## À propos
 
 - 👨‍💻 Je travaille sur un projet de jeu vidéo
 - 👀 Je suis intéressé par plein de choses
@@ -12,7 +17,12 @@ Salut 👋, je suis CoolestPNJ, un apprenti développeur passionné par internet
 - 🤯 Moi quand je dois coder en JS
 - ⚡ Fun fact : J'ai pas de fun fact en tête
 
-## [Des blagues](https://github.com/ABSphreak/readme-jokes) - [© Abhinav Sharma](https://github.com/ABSphreak)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CoolestPNJ&theme=dark)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CoolestPNJ&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)  
+[Trophies](https://github.com/ryo-ma/github-profile-trophy) by [ryo-ma](https://github.com/ryo-ma) (MIT license)
+
+## [Des blagues](https://github.com/ABSphreak/readme-jokes) - [© Abhinav Sharma](https://github.com/ABSphreak) (MIT license)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
