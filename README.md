@@ -5,8 +5,11 @@ Salut 👋, je suis CoolestPNJ, un apprenti développeur passionné par internet
 ## Table des matières : 
 - [À propos](#à-propos)
 - [Les outils que j'utilise](#les-outils-que-j'utilise)
-- [À propos](#à-propos)
-- [À propos](#à-propos)
+- [Ma série](#ma-série)
+- [Mes trophées](#mes-trophées)
+- [Des blagues](#des-blagues)
+- [Petite citation](#petite-citation)
+- [Tchouss](#mtchouss)
 
 ## À propos
 
@@ -54,7 +57,8 @@ Salut 👋, je suis CoolestPNJ, un apprenti développeur passionné par internet
 [![trophy](https://github-profile-trophy.vercel.app/?username=CoolestPNJ&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)  
 [Trophies](https://github.com/ryo-ma/github-profile-trophy) by [ryo-ma](https://github.com/ryo-ma) (MIT license)
 
-## [Des blagues](https://github.com/ABSphreak/readme-jokes) - [© Abhinav Sharma](https://github.com/ABSphreak) (MIT license)
+## Des blagues
+[Le repo ici](https://github.com/ABSphreak/readme-jokes) - [© Abhinav Sharma](https://github.com/ABSphreak) (MIT license)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
