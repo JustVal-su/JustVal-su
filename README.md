@@ -4,12 +4,12 @@ Salut 👋, je suis CoolestPNJ, un apprenti développeur passionné par internet
 
 ## Table des matières : 
 - [À propos](#à-propos)
-- [Les outils que j'utilise](#les-outils-que-j'utilise)
+- [Outils utilisés dans mes projets](#outils-utilisés-dans-mes-projets)
 - [Ma série](#ma-série)
 - [Mes trophées](#mes-trophées)
 - [Des blagues](#des-blagues)
 - [Petite citation](#petite-citation)
-- [Tchouss](#mtchouss)
+- [Tchouss](#tchouss)
 
 ## À propos
 
@@ -21,7 +21,7 @@ Salut 👋, je suis CoolestPNJ, un apprenti développeur passionné par internet
 - 🤯 Moi quand je dois coder en JS
 - ⚡ Fun fact : J'ai pas de fun fact en tête
 
-## Les outils que j'utilise
+## Outils utilisés dans mes projets
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
