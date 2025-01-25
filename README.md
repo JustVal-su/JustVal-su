@@ -62,7 +62,7 @@ Salut 👋, je suis CoolestPNJ, un apprenti développeur passionné par internet
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-# Petite citation
+## Petite citation
 > Mesurer la progression du développement d’un logiciel à l’aune de ses lignes de code revient à mesurer la progression de la construction d’un avion à l’aune de son poids
 — Bill Gates
 
