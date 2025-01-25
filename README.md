@@ -3,9 +3,10 @@
 Salut 👋, je suis CoolestPNJ, un apprenti développeur passionné par internet et la technologie en général.
 
 ## Table des matières : 
-- [À propos](#)
-
-
+- [À propos](#à-propos)
+- [Les outils que j'utilise](#les-outils-que-j'utilise)
+- [À propos](#à-propos)
+- [À propos](#à-propos)
 
 ## À propos
 
