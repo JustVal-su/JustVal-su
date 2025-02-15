@@ -13,11 +13,11 @@ Salut 👋, je suis CoolestPNJ, un apprenti développeur passionné par internet
 
 ## À propos
 
-- 👨‍💻 Je travaille sur un projet de jeu vidéo
+- 👨‍💻 Je travaille sur une fausse IA
 - 👀 Je suis intéressé par plein de choses
-- 🌱 J'apprends le GDscript
+- 🌱 J'apprends javascript et SQL
 - 💞️ J'aimerais contribuer à des projets open-source
-- 👾 Je n'aime pas trop m'aider d'une IA pour coder
+- 👾 J'adore l'informatique quantique
 - 🤯 Moi quand je dois coder en JS
 - ⚡ Fun fact : J'ai pas de fun fact en tête
 
