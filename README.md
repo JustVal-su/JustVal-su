@@ -1,6 +1,6 @@
-# Hi I'm CoolestPNJ
+# Hi I'm Just_Val
 
-Salut 👋, je suis CoolestPNJ, un apprenti développeur passionné par internet et la technologie en général.
+Salut 👋, je suis Just_Val, un apprenti développeur passionné par internet et la technologie en général.
 
 ## Table des matières : 
 - [À propos](#à-propos)
@@ -70,7 +70,7 @@ Salut 👋, je suis CoolestPNJ, un apprenti développeur passionné par internet
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1000&pause=2000&color=A0EAFF&width=700&height=75&lines=Merci+d'avoir+regard%C3%A9+!)](https://git.io/typing-svg)
 ©[DenverCoder1](https://github.com/DenverCoder1/readme-typing-svg) - MIT license  
 
-Made with ♥️ by the Coolest NPC
+Made with ♥️ by the Just_Val
 
 <!---
 CoolestPNJ/CoolestPNJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
