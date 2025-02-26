@@ -1,6 +1,7 @@
 # Hi I'm Just_Val
 
 Salut 👋, je suis Just_Val, un apprenti développeur passionné par internet et la technologie en général.
+Dans JustVal-su, su signifie "Super User" (en référence à Debian 😉).
 
 ## Table des matières : 
 - [À propos](#à-propos)
