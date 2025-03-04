@@ -50,12 +50,12 @@ Dans JustVal-su, su signifie "Super User" (en référence à Debian 😉).
 
 ## Ma série
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CoolestPNJ)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JustVal-su)](https://git.io/streak-stats)  
 ©[DenverCoder1](https://github.com/DenverCoder1/github-readme-streak-stats/tree/main) - MIT license
 
 ## Mes trophées
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CoolestPNJ&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=JustVal-su&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)  
 [Trophies](https://github.com/ryo-ma/github-profile-trophy) by [ryo-ma](https://github.com/ryo-ma) (MIT license)
 
 ## Des blagues
