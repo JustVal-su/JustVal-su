@@ -14,7 +14,7 @@ Dans JustVal-su, su signifie "Super User" (en référence à Debian 😉).
 
 ## À propos
 
-- 👨‍💻 Je travaille sur un tutoriel sur les fonctions css custom 
+- 👨‍💻 Je travaille sur un tutoriel sur les fonctions css customs
 - 👀 Je suis intéressé par plein de choses
 - 🌱 J'apprends javascript et SQL
 - 💞️ J'aimerais contribuer à des projets open-source
