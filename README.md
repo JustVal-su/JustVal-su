@@ -3,14 +3,14 @@
 Hello 👋, I am Just_Val, a former developer passionate by internet and the technology.
 In my username, su means "Super User" (just like in Debian 😉).
 
-## Table of contents : 
-- [About me](#à-propos)
-- [Tools I use in my projects](#outils-utilisés-dans-mes-projets)
-- [My streak](#ma-série)
-- [My trophies](#mes-trophées)
-- [Jokes](#des-blagues)
-- [Little citation](#petite-citation)
-- [Bye](#tchouss)
+## Table of contents
+- [About me](#about-me)
+- [Tools I use in my projects](#tools-i-use-in-my-projects)
+- [My streak](#my-streak)
+- [My trophies](#my-trophies)
+- [Jokes](#jokes)
+- [Little citation](#little-citation)
+- [Bye](#bye)
 
 ## About me
 
@@ -68,7 +68,7 @@ In my username, su means "Super User" (just like in Debian 😉).
 — Linus Torvalds
 
 ## Bye
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1000&pause=2000&color=A0EAFF&width=700&height=75&lines=Merci+d'avoir+regard%C3%A9+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&width=500&height=70&lines=Thanks+for+watching+!)](https://git.io/typing-svg)
 ©[DenverCoder1](https://github.com/DenverCoder1/readme-typing-svg) - MIT license  
 
 Made with ♥️ by Just_Val
