@@ -1,28 +1,28 @@
 # Hi I'm Just_Val
 
-Salut 👋, je suis Just_Val, un apprenti développeur passionné par internet et la technologie en général.
-Dans JustVal-su, su signifie "Super User" (en référence à Debian 😉).
+Hello 👋, I am Just_Val, a former developer passionate by internet and the technology.
+In my username, su means "Super User" (just like in Debian 😉).
 
-## Table des matières : 
-- [À propos](#à-propos)
-- [Outils utilisés dans mes projets](#outils-utilisés-dans-mes-projets)
-- [Ma série](#ma-série)
-- [Mes trophées](#mes-trophées)
-- [Des blagues](#des-blagues)
-- [Petite citation](#petite-citation)
-- [Tchouss](#tchouss)
+## Table of contents : 
+- [About me](#à-propos)
+- [Tools I use in my projects](#outils-utilisés-dans-mes-projets)
+- [My streak](#ma-série)
+- [My trophies](#mes-trophées)
+- [Jokes](#des-blagues)
+- [Little citation](#petite-citation)
+- [Bye](#tchouss)
 
-## À propos
+## About me
 
-- 👨‍💻 Je travaille sur un tutoriel sur les fonctions css customs
-- 👀 Je suis intéressé par plein de choses
-- 🌱 J'apprends javascript et SQL
-- 💞️ J'aimerais contribuer à des projets open-source
-- 👾 J'adore l'informatique quantique
-- 🤯 Moi quand je dois coder en JS
-- ⚡ Fun fact : J'ai pas de fun fact en tête
+- 👨‍💻 I work in a tutorial for customs CSS functions
+- 👀 I'm interested in a lot of things
+- 🌱 I currently learn javascript and SQL
+- 💞️ I'd like to contribute to open-source projects
+- 👾 I love quantum computing
+- 🤯 Me when I code in JS
+- ⚡ Fun fact : No fun facts...
 
-## Outils utilisés dans mes projets
+## Tools I use in my projects
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
@@ -48,30 +48,30 @@ Dans JustVal-su, su signifie "Super User" (en référence à Debian 😉).
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-## Ma série
+## My streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JustVal-su)](https://git.io/streak-stats)  
 ©[DenverCoder1](https://github.com/DenverCoder1/github-readme-streak-stats/tree/main) - MIT license
 
-## Mes trophées
+## My trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JustVal-su&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)  
 [Trophies](https://github.com/ryo-ma/github-profile-trophy) by [ryo-ma](https://github.com/ryo-ma) (MIT license)
 
-## Des blagues
-[Le repo ici](https://github.com/ABSphreak/readme-jokes) - [© Abhinav Sharma](https://github.com/ABSphreak) (MIT license)
+## Jokes
+[The repo is here](https://github.com/ABSphreak/readme-jokes) - [© Abhinav Sharma](https://github.com/ABSphreak) (MIT license)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## Petite citation
+## Little citation
 > Talk is cheap. Show me the code.
 — Linus Torvalds
 
-## Tchouss
+## Bye
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1000&pause=2000&color=A0EAFF&width=700&height=75&lines=Merci+d'avoir+regard%C3%A9+!)](https://git.io/typing-svg)
 ©[DenverCoder1](https://github.com/DenverCoder1/readme-typing-svg) - MIT license  
 
-Made with ♥️ by the Just_Val
+Made with ♥️ by Just_Val
 
 <!---
 CoolestPNJ/CoolestPNJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
