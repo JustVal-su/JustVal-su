@@ -1,4 +1,4 @@
-# Hi I'm Just_Val
+# Salut je suis Just_Val
 
 Salut 👋, je suis Just_Val, un apprenti développeur passionné par internet et la technologie en général.
 Dans JustVal-su, su signifie "Super User" (en référence à Debian 😉).
@@ -64,14 +64,13 @@ Dans JustVal-su, su signifie "Super User" (en référence à Debian 😉).
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## Petite citation
-> Talk is cheap. Show me the code.
-— Linus Torvalds
+> Talk is cheap. Show me the code. —Linus Torvalds
 
 ## Tchouss
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1000&pause=2000&color=A0EAFF&width=700&height=75&lines=Merci+d'avoir+regard%C3%A9+!)](https://git.io/typing-svg)
 ©[DenverCoder1](https://github.com/DenverCoder1/readme-typing-svg) - MIT license  
 
-Made with ♥️ by the Just_Val
+Made with ♥️ by Just_Val
 
 <!---
 CoolestPNJ/CoolestPNJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
