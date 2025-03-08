@@ -64,8 +64,8 @@ Dans JustVal-su, su signifie "Super User" (en référence à Debian 😉).
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## Petite citation
-> Mesurer la progression du développement d’un logiciel à l’aune de ses lignes de code revient à mesurer la progression de la construction d’un avion à l’aune de son poids
-— Bill Gates
+> Talk is cheap. Show me the code.
+— Linus Torvalds
 
 ## Tchouss
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1000&pause=2000&color=A0EAFF&width=700&height=75&lines=Merci+d'avoir+regard%C3%A9+!)](https://git.io/typing-svg)
