@@ -2,8 +2,8 @@
 
 ℹ️ Ce readme est disponible en [français](https://github.com/JustVal-su/JustVal-su/blob/main/README-fr.md#%C3%A0-propos)  
 
-Hello 👋, I am Just_Val, a junior developer passionate by internet and the technology.
-In my username, su means "Super User" (just like in Debian 😉).
+Hello 👋, I am Just_Val, a junior developer passionated by the internet and the technology.
+In my username, "su" means "Super User" (just like in Debian 😉).
 
 ## Table of contents
 - [About me](#about-me)
