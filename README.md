@@ -16,12 +16,12 @@ In my username, "su" means "Super User" (just like in Debian 😉).
 
 ## About me
 
-- 👨‍💻 I work in a tutorial CLI chatbot app
+- 👨‍💻 I work in interesting projects...
 - 👀 I'm interested in a lot of things
 - 🌱 I currently learn bash
 - 💞️ I'd like to contribute to open-source projects
-- 👾 I love quantum computing
-- 🤯 Me when I code in bash
+- 👾 I love vue.js (peak framework!!)
+- 🤯 Me sometimes with typescript
 - ⚡ Fun fact : No fun facts...
 
 ## Tools I use in my projects
