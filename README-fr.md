@@ -14,13 +14,13 @@ Dans JustVal-su, su signifie "Super User" (en référence à Debian 😉).
 
 ## À propos
 
-- 👨‍💻 Je travaille sur un tutoriel sur les fonctions css customs
+- 👨‍💻 Je travaille sur des projets intéressants
 - 👀 Je suis intéressé par plein de choses
 - 🌱 J'apprends javascript et SQL
 - 💞️ J'aimerais contribuer à des projets open-source
-- 👾 J'adore l'informatique quantique
-- 🤯 Moi quand je dois coder en JS
-- ⚡ Fun fact : J'ai pas de fun fact en tête
+- 👾 J'adore vue.js (quel banger !!)
+- 🤯 Moi parfois avec typescript
+- ⚡ Fun fact : J'ai pas de fun facts en tête
 
 ## Outils utilisés dans mes projets
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
