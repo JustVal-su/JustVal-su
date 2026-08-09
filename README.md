@@ -2,7 +2,7 @@
 
 ℹ️ Ce readme est disponible en [français](https://github.com/JustVal-su/JustVal-su/blob/main/README-fr.md#%C3%A0-propos)  
 
-Hello 👋, I am Just_Val, a junior developer passionated by the internet and the technology.
+Hello 👋, I am Just_Val, a developer specialized in vue, typescript and rust. I code for the love of creating things with my hands.
 In my username, "su" means "Super User" (just like in Debian 😉).
 
 ## Table of contents
